@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Http\Functions;
+namespace App\Http\Lib;
 
 use Exception;
 use DateTime;
